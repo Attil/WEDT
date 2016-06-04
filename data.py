@@ -1,10 +1,10 @@
-from nltk.cluster import KMeansClusterer as nltk_KMeansClusterer, euclidean_distance
+from nltk.cluster import KMeansClusterer as nltk_KMeansClusterer
 from tree import Tree
 
 from unsupervised import Clusterer
 
-class KMeansClusterer(Clusterer):
-    def train(self, num_of_clusters=3):
+class DataClusterer(Clusterer):
+    def train(self, num_of_clusters=7):
         self.vectors = [self.to_vector_space(line) for line in self.lines if line]
 
         self.tree = Tree()
@@ -13,7 +13,7 @@ class KMeansClusterer(Clusterer):
         for i in range(num_of_clusters-1):
             biggest = self.tree.get_biggest()
 
-            biggest.clusterer = nltk_KMeansClusterer(2, euclidean_distance, repeats=64)
+            biggest.clusterer = nltk_KMeansClusterer(2, self.distance, repeats=1)
             biggest.clusterer.cluster(biggest.words)
 
             l = [vector for vector in biggest.words if biggest.clusterer.classify(vector) == 0]
@@ -22,9 +22,6 @@ class KMeansClusterer(Clusterer):
             biggest.words = None
             biggest.left.words = l
             biggest.right.words = r
-
-            print(len(l))
-            print(len(r))
 
     def classify(self, sample):
         ret = ''
