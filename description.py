@@ -6,10 +6,10 @@ from suffix_trees.STree import STree
 from data import DataClusterer
 
 class DescriptionClusterer(DataClusterer):
-    def train(self, num_of_clusters=7):
+    def train(self, num_of_clusters=7, **kwargs):
         self.suffix_tree = STree([' '.join(line) for line in self.lines])
 
-        super().train(num_of_clusters)
+        super().train(num_of_clusters, **kwargs)
 
     def to_vector_space(self, line):
         presence = defaultdict(int)

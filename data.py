@@ -4,7 +4,7 @@ from tree import Tree
 from unsupervised import Clusterer
 
 class DataClusterer(Clusterer):
-    def train(self, num_of_clusters=7):
+    def train(self, num_of_clusters=7, repeats=4):
         self.vectors = [self.to_vector_space(line) for line in self.lines if line]
 
         self.tree = Tree()
@@ -13,7 +13,7 @@ class DataClusterer(Clusterer):
         for i in range(num_of_clusters-1):
             biggest = self.tree.get_biggest()
 
-            biggest.clusterer = nltk_KMeansClusterer(2, self.distance, repeats=1)
+            biggest.clusterer = nltk_KMeansClusterer(2, self.distance, repeats)
             biggest.clusterer.cluster(biggest.words)
 
             l = [vector for vector in biggest.words if biggest.clusterer.classify(vector) == 0]

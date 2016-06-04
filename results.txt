@@ -3,244 +3,244 @@ Data Clusterer
 Training
 Classyfing
 Results
-Category llllllllllllllllllr
+Category lllllllllllllllll
+	cats in warsaw
+	cat or dog
+	programming cats
+	can cats use databases
+	cats in london
+	dogs attack cats
+	are all cats evil
+	warsaw or london
+	blue cats
+Category llllllllllllllr
+	drivers for cats
+Category lllllllr
+	downsampling series
+Category llllllr
+	can hamsters pick locks
+Category lllllllllllllllrr
+	sample data
+Category llr
+	black cat
+Category lllllllllllllllrllrrlr
+	high availability
+Category lllllllllllllllrlr
+	best movies in warsaw
+Category lllr
+	black box developing
+	white box developing
+Category llllllllllr
+	help im attacked by mad hamsters
+Category lllllllllllllllrllrrllllr
+	slow computers
+Category lllllllllllllllrllrrr
+	how to classify vector spaces for dummies
+Category llllllllllllr
+	hackers cats
+Category llllllllllllllllr
+	blue screen of death crash
+	where are hackers
+	query in databases
+	mining pickaxe
+	news portal
+	portal about hamsters
+	big databases
+	hacker portal
+	black screen of death
+	black hat hacker
+	mining hats
+	blue screen of death
+	dont be evil
+	black as night
+	is google evil
+	blue screen of death crash windows
+Category lllllllllllllllrllrl
 	where is north america
 	lakes in north america
-Category llllllllllllllllllllllllr
-	merge series in queries
-Category lllllllllllllllllllllr
-	hacker portal
-Category lllllllllllllllllllllllllllllll
-	cheap pickaxes
-	query results
-	query in databases
-	big databases
-	source of life
-	is google evil
-	help im trapped in search query factory
-	fast cars
-	multiple statements in queries
-	coca cola or pepsi
-	doom is upon us
-	coca cola santa claus
-	unit testing
-	is santa claus evil
-	can hamsters pick locks
-	fast computers
-	what is the best
-	news portal
-	database exploration
-	regular rexpression in queries
-	best movies in warsaw
-	high availability
-	portal about hamsters
-	origin of life
-	dividing series
-	mathematical operators
-	high performance
-Category lllllllllllllllllllr
-	sample data
+Category lllllllllllllllrlll
+	schema exploration
 	data mining is not cool
 	data mining is cool
-Category llllr
-	time series database
-	time series aggregation
-Category lllllllllllllllllllllllr
-	text editor
-Category r
-	cats in warsaw
-Category lllllllllllr
-	web portal
-Category lllllr
-	downsampling series
-Category llllllllllllllllllllr
-	human best friend is dog
-Category llllllr
-	mining pickaxe
-Category lllllllllllllllllr
-	where is something
-Category llllllllllllllr
-	warsaw or london
-Category llllllllllllllllllllllllllr
-	how to classify vector spaces for dummies
-Category lllllllllllllr
-	slow cars
-Category llllllllllllllllllllllr
-	dont be evil
-Category lllllllllllllllllllllllllllllr
-	are hamsters venomous
-Category lllllllllr
-	what is most important in life
-Category lllllllllllllllllllllllllr
-	continous queries
-Category lllllllllllllllllllllllllllr
-	query syntax
-Category llllllllllllr
-	how to see
-Category llllllllllllllllllllllllllllllr
-	how cheap is free
-Category llllllllllllllllr
-	mining hats
-Category lr
 	data exploration
-Category lllr
-	cats in london
-Category lllllllr
-	help im attacked by mad hamsters
-	black as night
-	programming cats
-	how many cats to kill hamster
-	hackers cats
-	black hat hacker
-	where is black gold
-	black cat
-	cat or dog
-	are all cats evil
-	dogs attack cats
-	mithril white gold
-	black box developing
-	can cats use databases
-	blue cats
-	blue screen of death crash
-	white box developing
-	black screen of death
-	blue screen of death crash windows
-	drivers for cats
-	blue screen of death
-	where are hackers
-Category llllllllllr
-	slow computers
-Category lllllllllllllllr
+Category lllllllllllllllrllrrllllll
 	clustering
 	most famous shakespeare equations
 	to cluster or not to cluster
 	shakespeare cluster
-Category llllllllr
-	how to escape from a hamster
-Category llllllllllllllllllllllllllllr
+Category lllllllllllr
+	high performance
+Category llllr
+	mithril white gold
+Category r
+	mathematical operators
+Category lllllllllllllllrllrrlllllrr
+	source of life
+Category lllllr
+	where is black gold
+Category lllllllllllllllrllrrlllllrlr
+	human best friend is dog
+	what is the best
+Category lr
+	time series database
+	time series aggregation
+Category lllllllllllllllrllrrlllllrllrr
+	are hamsters venomous
+Category lllllllllr
+	web portal
+Category lllllllllllllllrllrrlllllrlll
+	how to see
+Category lllllllllllllllrllrrlllllrllrl
+	continous queries
+	how many cats to kill hamster
+	fast cars
+	how cheap is free
+	where is something
+	query results
+	fast computers
+	slow cars
+	dividing series
+	what is most important in life
+	cheap pickaxes
 	open source
-Category llr
-	schema exploration
+	help im trapped in search query factory
+	text editor
+	multiple statements in queries
+	query syntax
+	how to escape from a hamster
+	merge series in queries
+	origin of life
+	regular rexpression in queries
+Category llllllllr
+	doom is upon us
+Category lllllllllllllllrllrrllr
+	unit testing
+Category lllllllllllllr
+	database exploration
+Category lllllllllllllllrllrrlllr
+	is santa claus evil
+	coca cola santa claus
+	coca cola or pepsi
 ----------------------------------------------------------------
 Description Clusterer
 Training
 Classyfing
 Results
-Category llllllllllllllllllr
-	mathematical operators
-Category llllllllllllllrr
-	query results
-	help im trapped in search query factory
-	continous queries
-	multiple statements in queries
-	regular rexpression in queries
-	query syntax
-Category lllrlllll
-	programming cats
-	hackers cats
-	black cat
-	are all cats evil
-	cats in london
-	drivers for cats
-Category lllrr
-	can cats use databases
-Category lllllllllllllllllllr
-	time series aggregation
+Category llrrllr
 	downsampling series
 	dividing series
-Category llllr
-	warsaw or london
-	what is the best
-	human best friend is dog
-	best movies in warsaw
-Category lllllllllllllr
-	where is something
-Category rl
-	mining hats
-	query in databases
-	schema exploration
-	mining pickaxe
-Category lllllllllllr
-	web portal
-	news portal
-Category lllrllr
-	blue cats
-Category lllrlllr
-	cats in warsaw
-Category llllllllllllllllr
+	time series aggregation
+Category llrrlllrrlrlrrlrrll
 	how to classify vector spaces for dummies
-Category lllllr
-	source of life
-	open source
-	what is most important in life
-	origin of life
-Category lllrllllr
-	how many cats to kill hamster
-Category llllllllllllllllllllr
-	coca cola or pepsi
-	coca cola santa claus
-Category lllllllllllllllllr
+	news portal
+	how to see
+	hacker portal
+	web portal
+	unit testing
+Category rrrllllr
+	can cats use databases
+Category rlr
+	data mining is not cool
+	sample data
+	data mining is cool
+Category rll
+	time series database
+	schema exploration
+	big databases
+	database exploration
+	data exploration
+Category lrl
+	regular rexpression in queries
+Category llrl
+	where is something
+Category llrrlllrrlrll
 	where is north america
 	lakes in north america
-Category llllllllllr
-	how to see
-Category lllrlr
-	cat or dog
-	dogs attack cats
-Category lllllllllllllllllllll
+Category llrrlllrrlrlrrr
+	is santa claus evil
 	dont be evil
 	is google evil
-	doom is upon us
-	unit testing
-	is santa claus evil
-Category llllllrr
-	black as night
-	where is black gold
-	black box developing
-	white box developing
-Category lllllllllr
+Category llrrlllrrlrlrrlrrlr
+	coca cola santa claus
+	coca cola or pepsi
+Category rrrllr
+	blue cats
+Category llrrlllrrr
+	portal about hamsters
+	are hamsters venomous
 	help im attacked by mad hamsters
 	how to escape from a hamster
-	are hamsters venomous
 	can hamsters pick locks
-	portal about hamsters
-Category llllllllllllr
-	cheap pickaxes
-	how cheap is free
-Category llllllrl
-	black hat hacker
-	hacker portal
-	mithril white gold
-	where are hackers
-Category rrlr
-	big databases
-Category rrll
-	sample data
-	data exploration
-	data mining is not cool
-	data mining is cool
-	database exploration
-Category lr
+Category rrrlllr
+	hackers cats
+Category rrl
+	how many cats to kill hamster
+	doom is upon us
+Category rrrlr
+	black cat
+Category rrrr
+	cat or dog
+	dogs attack cats
+Category llrrllll
+	slow computers
+	fast cars
+	fast computers
+	slow cars
+Category llrrlllrrlrlrrlrrr
+	mining pickaxe
+	mining hats
+Category llrrr
 	blue screen of death crash
 	black screen of death
-	blue screen of death crash windows
 	blue screen of death
-Category lllllllr
-	text editor
-Category lllllllllllllllr
+	blue screen of death crash windows
+Category llrrlllrrlrlrrlrl
+	how cheap is free
+	cheap pickaxes
+Category llrrlllrrlrr
+	best movies in warsaw
+	human best friend is dog
+	what is the best
+	warsaw or london
+Category llrrlllrrlrlrl
 	high availability
 	high performance
-Category rrr
-	time series database
-Category llllllllr
+Category llrrlrr
+	where is black gold
+	black hat hacker
+	black as night
+Category lll
+	what is most important in life
+	source of life
+	open source
+	origin of life
+Category rrrlllll
+	cats in warsaw
+	programming cats
+	drivers for cats
+	cats in london
+	are all cats evil
+Category lrrlr
+	query in databases
+Category lrrr
+	help im trapped in search query factory
+Category llrrlllrl
 	clustering
 	most famous shakespeare equations
 	to cluster or not to cluster
 	shakespeare cluster
-Category llllllllllllllrl
+Category llrrlrl
+	black box developing
+	mithril white gold
+	where are hackers
+	white box developing
+Category llrrlllrrlrlrrll
+	text editor
+Category llrrlllrrll
+	mathematical operators
+Category lrrll
+	continous queries
+	query results
+	multiple statements in queries
+	query syntax
 	merge series in queries
-Category llr
-	slow cars
-	slow computers
-	fast cars
-	fast computers
